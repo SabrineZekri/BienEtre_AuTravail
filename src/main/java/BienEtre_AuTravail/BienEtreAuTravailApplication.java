@@ -8,6 +8,7 @@ public class BienEtreAuTravailApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BienEtreAuTravailApplication.class, args);
+		System.out.println("ok!!");
 	}
 
 }
